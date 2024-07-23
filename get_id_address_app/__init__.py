@@ -1,1 +1,0 @@
-default_app_config = 'get_ip_address_app.apps.GetIdAddressAppConfig'
